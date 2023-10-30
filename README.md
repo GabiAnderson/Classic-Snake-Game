@@ -5,6 +5,7 @@ Recreating the classic snake game in Python using Turtle Graphics
 **Final game can be found in main.py**
 
 ### [Turtle Practice](https://github.com/GabiAnderson/Classic-Snake-Game/tree/main/Turtle%20Practice)
+This folder holds a few files where I practiced with different Turtle Graphics concepts.
 - [squareTurtlePractice.py](https://github.com/GabiAnderson/Classic-Snake-Game/blob/main/Turtle%20Practice/squareTurtlePractice.py)
   - Implemented a very basic square drawing turtle to get an understanding of how the turtle library works.
 
@@ -21,6 +22,7 @@ Recreating the classic snake game in Python using Turtle Graphics
   - Extracted practice components from stamperTurtlePractice.py to create a template that acted as the starting point for the snake game.
 
 ### [Snake Progress](https://github.com/GabiAnderson/Classic-Snake-Game/tree/main/Snake%20Progress)
+This folder holds different iterations of my snake game. Each file attempts to tackle a core gameplay element.
 - [snakeMoveRightUpdateLook.py](https://github.com/GabiAnderson/Classic-Snake-Game/blob/main/Snake%20Progress/snakeMoveRightUpdateLook.py)
   - Created the snake, drew it on the screen, and got it to move/update properly...
 
